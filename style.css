@@ -286,6 +286,7 @@ Author Email: reynaldo.batac@outlook.com
 #campaign-list {
 	padding: 0;
 	list-style: none;
+	text-align: center;
 }
 #campaign-list li a {
 	min-height: 62px;
@@ -305,6 +306,9 @@ Author Email: reynaldo.batac@outlook.com
 }
 .calendar-list-parent p {
 	padding: 5px;
+}
+.calendar-list:hover {
+	font-weight: bolder;
 }
 .object-fit_cover{object-fit:cover}
 
