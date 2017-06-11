@@ -85,19 +85,19 @@
 					<div class="container">
 						<div class="row" style="margin-top: 30px; margin-bottom: 30px;">
 							<div class="footer-icons col-xs-6 col-sm-3 text-center">
-								<img src="<?php echo THEME_URI ?>/img/bureau-immigration.png" style="width: 90px; height: 90px;">
+								<img src="<?php echo THEME_URI ?>/img/bureau-immigration.jpg" style="width: 90px; height: 90px;">
 								<p>SSP<br>(Special Study Permit)</p>
 							</div>
 							<div class="footer-icons col-xs-6 col-sm-3 text-center">
-								<img src="<?php echo THEME_URI ?>/img/tesda.png" style="width: 90px; height: 90px;">
+								<img src="<?php echo THEME_URI ?>/img/tesda.jpg" style="height: 90px;">
 								<p>TESDA</p>
 							</div>
 							<div class="footer-icons col-xs-6 col-sm-3 text-center">
-								<img src="<?php echo THEME_URI ?>/img/pcc.png" style="width: 90px; height: 90px;">
+								<img src="<?php echo THEME_URI ?>/img/pcc.jpg" style="width: 90px; height: 90px;">
 								<p>Accreditation<br>certificate of TVET </p>
 							</div>
 							<div class="footer-icons col-xs-6 col-sm-3 text-center">
-								<img src="<?php echo THEME_URI ?>/img/besa.png" style="width: 90px; height: 90px;">
+								<img src="<?php echo THEME_URI ?>/img/besa.jpg" style="width: 90px; height: 90px;">
 								<p>Baguio English<br>Schools Association</p>
 							</div>
 						</div>
@@ -132,4 +132,11 @@
 	</body>
 	<script type="text/javascript" src="<?php echo THEME_URI ?>/js/jquery.min.js"></script>
 	<script type="text/javascript" src="<?php echo THEME_URI ?>/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+		$(document).on("ready", function(){
+			console.log($('.center-this').height()-315);
+			var ht = $('.center-this').height();
+			$('.center-this').css({"margin-top": "-" + ((ht-315)/2) + "px"});
+		})
+	</script>
 </html>
