@@ -1,6 +1,6 @@
 <?php 
 /*
- * Template Name: Category List
+ * Template Name: Category List 2
  */
 	get_header("mobile");
 ?>
@@ -14,11 +14,11 @@
 	<?php endwhile; ?>
 	</div>
 	<div class="row">
-		<div class="col-xs-12">
-			<?php
-			listByPostType();
-			?>
-		</div>
+	<div class="col-xs-12">
+<?php
+listByPostType2();
+?>
+	</div>
 	</div>
 </div>
 <?php
