@@ -1,28 +1,113 @@
 /*
-Theme Name: Talkyangco English
+Theme Name: Talkyangco English rey
 Theme URI: 
 Description: Talkyangco WordPress theme
 Version: 2
 Author: Reynaldo S. Batac Jr.
 Author Email: reynaldo.batac@outlook.com
 */
-* 
+@import url("//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+.mobile-fonts {
+	font-size: 71%;
+}
+
+.footer-image {
+	min-height: 80px;
+}
+
+.carousel-indicators {
+	display:none;
+}
+.mobile-dropdown {
+	padding: 5px 0;
+}
+#first-mobile-menu,#second-mobile-menu,#third-mobile-menu,#fourth-mobile-menu,#fifth-mobile-menu,#sixth-mobile-menu {
+	list-style: none;
+}
+#first-mobile-menu li ,#second-mobile-menu li ,#third-mobile-menu li ,#fourth-mobile-menu li ,#fifth-mobile-menu li ,#sixth-mobile-menu li {
+	padding: 3px 0;
+}
+#first-mobile-menu li a,#second-mobile-menu li a,#third-mobile-menu li a,#fourth-mobile-menu li a,#fifth-mobile-menu li a,#sixth-mobile-menu li a {
+	color: #333;
+}
+.navbar-default {
+	padding-bottom: 0 !important;
+}
+.navbar-header {
+	height:  75px;
+}
+
+.floating-search-tb {
+position: absolute;
+right: 0;
+width: 250px;
+z-index: 99;
+}
+.search-lens { position: relative; float: right; margin-top: 10px; cursor: pointer; }
+.search { position: relative; }
+.search input { text-indent: 30px;
+float: right; border: 1px solid #c0c0c0;border-radius: 5px;width:250px;margin-top:5px;padding: 5px;}
+.search .fa-search { 
+  position: absolute;
+  top: 12px;
+  right: 17px;
+  font-size: 15px;
+}
+* {
+	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Meiryo, メイリオ, Osaka, "MS PGothic", helvetica, sans-serif;
+    font-size: 100%;
+}
 .panel {
 	border: none;
 	margin-bottom: 5px;
 }
+.panel-group {
+	margin-left: -15px;
+	margin-right: -15px;
+	margin-bottom: 0;
+	padding: 0;
+	border-bottom: 1px solid #424242;
+}
+
 .panel-heading {
 	background-color: #000;
 	color: #fff;
 	padding:5px 2px;
+	position:relative;
+}
+
+.panel-heading h4 {
+	padding: 12px 30px;
+	font-size: 90%;
+	font-weight: bold;
+}
+.panel-title a {
+	text-decoration: none !important;
+	display: block !important;
+}
+.panel-title i {
+	position: absolute;
+	right: 30px;
+	top: 15px;
+	font-size: 15px;
 }
 .panel-body {
 	background-color: #000;
-	padding: 5px 0 0 0;
+	padding: 0;
+	background-color: #333;
+	border:none !important;
 }
 .panel-body a {
 	color: #fff;
-	padding: 3px 0;
+	padding: 20px 55px;
+	background-color: #2D2D2D;
+	border-top: 1px solid #424242;
+	display: block;
+	text-decoration: none;
+	font-size: 85%;
+}
+.panel-body a:last-child {
+	border-bottom: 1px solid #fff;
 }
 .mask {
 	position: absolute;
@@ -82,9 +167,10 @@ Author Email: reynaldo.batac@outlook.com
 	border: 1px solid #666;
 	padding: 5px 10px;
 	border-radius: 3px;
-	width: 250px;
+	width: 350px;
 	float: right;
 	display: none;
+	text-align: center;
 }
 #quick-links a {
 	color: #666;
@@ -123,6 +209,9 @@ Author Email: reynaldo.batac@outlook.com
 	background-color: #fff;
 	border: none !important;
 	padding-bottom: 30px;
+}
+.navbar-nav li a {
+	font-size: 13px !important;
 }
 #logo img {
 	width: 68px;
@@ -203,6 +292,7 @@ Author Email: reynaldo.batac@outlook.com
 #best-place {
 	min-height: 200px;
 	background: url('img/best-place.png');
+	background-size: cover;
 }
 
 #qualified-programs, #about, #experience, #plans {
@@ -250,7 +340,7 @@ Author Email: reynaldo.batac@outlook.com
 	text-decoration: none;
 }
 #plans {
-		min-height: 670px;
+		min-height: 700px;
 	}
 #plan-list-container {
 	padding-top: 10px;
@@ -330,13 +420,17 @@ Author Email: reynaldo.batac@outlook.com
 .object-fit_cover{object-fit:cover}
 
 footer .footer-menu {
-	padding: 10px 0;
+	padding: 0;
 	background-color: #000;
 	color: #fff;
 }
 footer .footer-menu ul {
 	list-style: none;
 	padding: 0;
+}
+footer .footer-menu ul li {
+	line-height: 25px !important;
+	font-size: 11px !important;
 }
 footer .footer-menu ul li a {
 	color: #fff;
@@ -444,7 +538,49 @@ h2 {
 	position: absolute;
 	bottom:0;
 }
+.gallery-image {
+	width: 100%;
+}
+.carousel-inner {
+	width: 100%;
+	height: auto;
+	margin-bottom: 15px;
+}
+.bldg-img {
+	height: 250px !important;
+}
+#width_150 {
+	width:80px;
+}
+.filler_150 { height: 0; }
 @media (min-width: 768px) {
+	.bldg-img {
+		height:311px;
+	}
+	#width_150 {
+		width: 150px;
+	}
+	.filler_150 { height: 150px; }
+	.mobile-fonts {
+		font-size: 100%;
+	}
+	.footer-image {
+		height: 150px;
+	}
+	.carousel-indicators {
+		display: inline-block;
+	}
+	#example-navbar-collapse-xs { display: none !important; }
+	.navbar-header.in {
+		height:  50px;
+	}
+	#floating-menu {
+		display: inline-block;
+	}
+	.panel-group {
+		margin-left: -66px;
+		margin-right: -66px;
+	}
 	#weblinks {
 		text-align: right;
 	}
@@ -468,6 +604,7 @@ h2 {
 	#qualified-programs {
 		min-height: 336px;
 		background: url('img/qualified-programs.png');
+		background-size: cover;
 	}
 	.course-builder {
 		min-height: 70px;
@@ -510,7 +647,7 @@ h2 {
 		display: initial;
 	}
 	.nav>li>a {
-		font-size: 12px;
+		font-size: 12px !important;
 		padding: 10px 8px;
 	}
 
@@ -585,4 +722,31 @@ h2 {
 		font-size: 14px;
 		padding: 10px 14px;
 	}
+}
+
+#floating-menu {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: #fff;
+	z-index: 9;
+	border-bottom: 1px solid #c0c0c0;
+	-webkit-box-shadow: 3px 6px 5px -5px rgba(0,0,0,0.75);
+	-moz-box-shadow: 3px 6px 5px -5px rgba(0,0,0,0.75);
+	box-shadow: 3px 6px 5px -5px rgba(0,0,0,0.75);
+}
+
+#floating-menu a {
+	color: #333;
+}
+
+.size-full {
+	width: auto !important;
+	height: auto !important;
+	max-width: 100% !important;
+}
+
+.img-responsive {
+	display: inline-block !important;
 }

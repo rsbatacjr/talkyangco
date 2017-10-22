@@ -5,78 +5,77 @@
 							<div class="row">
 								<div class="col-md-2">
 									<ul>
-										<li><a href="">Introduction</a></li>
+										<li><a href="/about-us/">Introduction</a></li>
 										<li>&nbsp;</li>
-										<li><a href="">ABOUT US</a></li>
-										<li><a href="">Greetings</a></li>
-										<li><a href="">Strengths</a></li>
-										<li><a href="">Location</a></li>
+										<li><a href="http://talk-academy.kr:81/about-us/">About TALK</a></li>
+										<li><a href="http://talk-academy.kr:81/greetings/">Greetings</a></li>
+										<li><a href="http://talk-academy.kr:81/strengths/">Strengths</a></li>
+										<li><a href="http://talk-academy.kr:81/location/">Location</a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
 									<ul>
-										<li><a href="">Process</a></li>
+										<li><a href="/procedure/">Process</a></li>
 										<li>&nbsp;</li>
-										<li><a href="">Procedure</a></li>
-										<li><a href="">About preparation</a></li>
-										<li><a href="">FAQ</a></li>
-										<li><a href="">Medical &amp; Insurance</a></li>
-										<li><a href="">The way to Baguio</a></li>
-										<li><a href="">Campaign</a></li>
+										<li><a href="http://talk-academy.kr:81/procedure/">Process</a></li>
+										<li><a href="http://talk-academy.kr:81/about-preparation/">About Preparation</a></li>
+										<li><a href="http://talk-academy.kr:81/faqs/">FAQ</a></li>
+										<li><a href="http://talk-academy.kr:81/medical-and-insurance/">Medical and Insurance</a></li>
+										<li><a href="http://talk-academy.kr:81/way-to-baguio/">Way to Baguio</a></li>
+										<li><a href="http://talk-academy.kr:81/campaigns/">Campaigns</a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
 									<ul>
-										<li><a href="">Registration</a></li>
+										<li><a href="/tuition-fee/">Tuition Fee</a></li>
 										<li>&nbsp;</li>
-										<li><a href="">Tuition Fee</a></li>
-										<li><a href="">Dormitory types</a></li>
-										<li><a href="">Miscellaneous fees</a></li>
-										<li><a href="">IELTS  Official test dates</a></li>
-										<li><a href="">TOEIC Official test dates</a></li>
-										<li><a href="">Holiday in the Philippines</a></li>
-										<li><a href="">Official pick-up dates</a></li>
-										<li><a href="">Refund policy</a></li>
-										<li><a href="">E-Application(Register now)</a></li>
+										<li><a href="http://talk-academy.kr:81/tuition-fee/">Tuition Fee</a></li>
+										<li><a href="http://talk-academy.kr:81/dormitory-type/">Dormitory</a></li>
+										<li><a href="http://talk-academy.kr:81/miscellaneous-fee/">Miscellaneous Fee</a></li>
+										<li><a href="http://talk-academy.kr:81/ielts-official-test-dates/">IELTS Test Dates</a></li>
+										<li><a href="http://talk-academy.kr:81/toeic-official-test-dates/">TOEIC Test Dates</a></li>
+										<li><a href="http://talk-academy.kr:81/philippine-holiday/">Philippines Holiday</a></li>
+										<li><a href="http://talk-academy.kr:81/official-pickup-dates/">Official Pickup Dates</a></li>
+										<li><a href="http://talk-academy.kr:81/refund-policy/">Refund Policy</a></li>
+										<li><a href="http://talk-academy.kr:81/online-registration/">Online Registration</a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
 									<ul>
-										<li><a href="">Talk’s Know-how</a></li>
+										<li><a href="/more-about-talk">More About TALK</a></li>
 										<li>&nbsp;</li>
-										<li><a href="">ESL 421, 521, 611</a></li>
-										<li><a href="">Intensive IELTS</a></li>
-										<li><a href="">Intensive TOEIC</a></li>
-										<li><a href="">IELTS Guarantee</a></li>
-										<li><a href="">TOEIC Guarantee</a></li>
-										<li><a href="">Power Speaking</a></li>
-										<li><a href="">Working Holiday</a></li>
-										<li><a href="">Family ESL</a></li>
-										<li><a href="">Online Consulting</a></li>
+										<li><a href="http://talk-academy.kr:81/yangco-esl/">ESL 421, 521, 611</a></li>
+										<li><a href="http://talk-academy.kr:81/ielts/">IELTS</a></li>
+										<li><a href="http://talk-academy.kr:81/toiec/">TOEIC</a></li>
+										<li><a href="http://talk-academy.kr:81/power-speaking/">Power Speaking</a></li>
+										<li><a href="http://talk-academy.kr:81/job-ready/">Working Holiday</a></li>
+										<li><a href="http://talk-academy.kr:81/family-esl/">Family ESL</a></li>
+										<li><a href="http://talk-academy.kr:81/online-consultation/">Online Consultation</a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
 									<ul>
-										<li><a href="">Studying Plans</a></li>
+										<li><a href="/philippine-language-study-plan">Plans</a></li>
 										<li>&nbsp;</li>
-										<li><a href="">TOEIC test</a></li>
-										<li><a href="">IELTS test</a></li>
-										<li><a href="">Power speaking</a></li>
-										<li><a href="">Short-term(1~3wks study)</a></li>
-										<li><a href="">Long-term study</a></li>
-										<li><a href="">Best price</a></li>
-										<li><a href="">Philippines &amp; Other country</a></li>
+										<li><a href="http://talk-academy.kr:81/toeic-test/">TOEIC Test</a></li>
+										<li><a href="http://talk-academy.kr:81/ielts-test/">IELTS Test</a></li>
+										<li><a href="http://talk-academy.kr:81/intensive-speaking/">Intensive Speaking</a></li>
+										<li><a href="http://talk-academy.kr:81/short-term-study/">Short Term Study</a></li>
+										<li><a href="http://talk-academy.kr:81/long-term-study/">Long Term Study</a></li>
+										<li><a href="http://talk-academy.kr:81/best-price/">Best Price</a></li>
+										<li><a href="http://talk-academy.kr:81/philippines-and-other-countries/">Philippines and Other Countries/a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
 									<ul>
-										<li><a href="">Community</a></li>
+										<li><a href="/notice/">Community</a></li>
 										<li>&nbsp;</li>
-										<li><a href="">Notice</a></li>
-										<li><a href="">Student’s experience</a></li>
-										<li><a href="">Talk’s meals</a></li>
-										<li><a href="">Inside the Philippines</a></li>
-										<li><a href="">Best Student &amp; Teacher</a></li>
+										<li><a href="http://talk-academy.kr:81/notice/">News</a></li>
+										<li><a href="http://talk-academy.kr:81/experiences/">Experiences</a></li>
+										<li><a href="http://talk-academy.kr:81/meals/">Meals</a></li>
+										<li><a href="http://talk-academy.kr:81/inside-philippine/">Inside Philippines</a></li>
+										<li><a href="http://talk-academy.kr:81/best-students-and-teachers/">Best Students and Teachers</a></li>
+										<li><a href="http://talk-academy.kr:81/travels/">Travels</a></li>
 									</ul>
 								</div>
 							</div>
@@ -85,19 +84,21 @@
 					<div class="footer-menu visible-xs visible-sm visible-md">
 						<div class="container">
 							<div class="row">
+							<div class="col-xs-12">
 								<div class="panel-group">
 									<div class="panel">
 										<div class="panel-heading">
 											<h4 class="panel-title">
 												<a data-toggle="collapse" href="#collapse1">Introduction</a>
+												<i>+</i>
 											</h4>
 										</div>
 										<div id="collapse1" class="panel-collapse collapse">
 									      <div class="panel-body">
-									      	<a href="">ABOUT US</a><br/>
-									      	<a href="">Greetings</a><br/>
-											<a href="">Strengths</a><br/>
-											<a href="">Location</a>
+									      	<a href="http://talk-academy.kr:81/about-us/">About TALK</a>
+									      	<a href="http://talk-academy.kr:81/greetings/">Greetings</a>
+											<a href="http://talk-academy.kr:81/strengths/">Strengths</a>
+											<a href="http://talk-academy.kr:81/location/">Location</a>
 									      </div>
 									    </div>
 									</div>
@@ -107,16 +108,17 @@
 										<div class="panel-heading">
 											<h4 class="panel-title">
 												<a data-toggle="collapse" href="#collapse2">Process</a>
+												<i>+</i>
 											</h4>
 										</div>
 										<div id="collapse2" class="panel-collapse collapse">
 									      <div class="panel-body">
-											<a href="">Procedure</a><br/>
-											<a href="">About preparation</a><br/>
-											<a href="">FAQ</a><br/>
-											<a href="">Medical &amp; Insurance</a><br/>
-											<a href="">The way to Baguio</a><br/>
-											<a href="">Campaign</a><br/>
+											<a href="http://talk-academy.kr:81/procedure/">Process</a>
+											<a href="http://talk-academy.kr:81/about-preparation/">About Preparation</a>
+											<a href="http://talk-academy.kr:81/faqs/">FAQ</a>
+											<a href="http://talk-academy.kr:81/medical-and-insurance/">Medical and Insurance</a>
+											<a href="http://talk-academy.kr:81/way-to-baguio/">Way to Baguio</a>
+											<a href="http://talk-academy.kr:81/campaigns/">Campaigns</a>
 									      </div>
 									    </div>
 									</div>
@@ -125,64 +127,63 @@
 									<div class="panel">
 										<div class="panel-heading">
 											<h4 class="panel-title">
-												<a data-toggle="collapse" href="#collapse3">Registration</a>
+												<a data-toggle="collapse" href="#collapse3">Tuition Fee</a>
+												<i>+</i>
 											</h4>
 										</div>
 										<div id="collapse3" class="panel-collapse collapse">
 									      <div class="panel-body">
-											<a href="">Tuition Fee</a><br/>
-											<a href="">Dormitory types</a><br/>
-											<a href="">Miscellaneous fees</a><br/>
-											<a href="">IELTS  Official test dates</a><br/>
-											<a href="">TOEIC Official test dates</a><br/>
-											<a href="">Holiday in the Philippines</a><br/>
-											<a href="">Official pick-up dates</a><br/>
-											<a href="">Refund policy</a><br/>
-											<a href="">E-Application(Register now)</a>
+											<a href="http://talk-academy.kr:81/tuition-fee/">Tuition Fee</a>
+											<a href="http://talk-academy.kr:81/dormitory-type/">Dormitory</a>
+											<a href="http://talk-academy.kr:81/miscellaneous-fee/">Miscellaneous Fee</a>
+											<a href="http://talk-academy.kr:81/ielts-official-test-dates/">IELTS Test 일정</a>
+											<a href="http://talk-academy.kr:81/toeic-official-test-dates/">TOEIC Test Dates</a>
+											<a href="http://talk-academy.kr:81/philippine-holiday/">Philippines Holiday</a>
+											<a href="http://talk-academy.kr:81/official-pickup-dates/">Official Pickup Dates</a>
+											<a href="http://talk-academy.kr:81/refund-policy/">Refund Policy</a>
+											<a href="http://talk-academy.kr:81/online-registration/">Online Registration</a>
 									      </div>
 									    </div>
 									</div>
 								</div>
-
 								<div class="panel-group">
 									<div class="panel">
 										<div class="panel-heading">
 											<h4 class="panel-title">
-												<a data-toggle="collapse" href="#collapse4">Talk’s Know-how</a>
+												<a data-toggle="collapse" href="#collapse4">More About TALK</a>
+												<i>+</i>
 											</h4>
 										</div>
 										<div id="collapse4" class="panel-collapse collapse">
 									      <div class="panel-body">
-											<a href="">ESL 421, 521, 611</a><br/>
-											<a href="">Intensive IELTS</a><br/>
-											<a href="">Intensive TOEIC</a><br/>
-											<a href="">IELTS Guarantee</a><br/>
-											<a href="">TOEIC Guarantee</a><br/>
-											<a href="">Power Speaking</a><br/>
-											<a href="">Working Holiday</a><br/>
-											<a href="">Family ESL</a><br/>
-											<a href="">Online Consulting</a>
+											<a href="http://talk-academy.kr:81/yangco-esl/">ESL 421, 521, 611</a>
+											<a href="http://talk-academy.kr:81/ielts/">IELTS</a>
+											<a href="http://talk-academy.kr:81/toiec/">TOEIC</a>
+											<a href="http://talk-academy.kr:81/power-speaking/">Power Speaking</a>
+											<a href="http://talk-academy.kr:81/job-ready/">Working Holiday</a>
+											<a href="http://talk-academy.kr:81/family-esl/">Family ESL</a>
+											<a href="http://talk-academy.kr:81/online-consultation/">Online Consultation</a>
 									      </div>
 									    </div>
 									</div>
 								</div>
-
 								<div class="panel-group">
 									<div class="panel">
 										<div class="panel-heading">
 											<h4 class="panel-title">
-												<a data-toggle="collapse" href="#collapse5">Studying Plans</a>
+												<a data-toggle="collapse" href="#collapse5">Plans</a>
+												<i>+</i>
 											</h4>
 										</div>
 										<div id="collapse5" class="panel-collapse collapse">
 									      <div class="panel-body">
-											<a href="">TOEIC test</a><br/>
-											<a href="">IELTS test</a><br/>
-											<a href="">Power speaking</a><br/>
-											<a href="">Short-term(1~3wks study)</a><br/>
-											<a href="">Long-term study</a><br/>
-											<a href="">Best price</a><br/>
-											<a href="">Philippines &amp; Other country</a>
+											<a href="http://talk-academy.kr:81/toeic-test/">TOEIC Test</a>
+											<a href="http://talk-academy.kr:81/ielts-test/">IELTS Test</a>
+											<a href="http://talk-academy.kr:81/intensive-speaking/">Intensive Speaking</a>
+											<a href="http://talk-academy.kr:81/short-term-study/">Short Term Study</a>
+											<a href="http://talk-academy.kr:81/long-term-study/">Long Term Study</a>
+											<a href="http://talk-academy.kr:81/best-price/">Best Price</a>
+											<a href="http://talk-academy.kr:81/philippines-and-other-countries/">Philippines and Other Countries/a>
 									      </div>
 									    </div>
 									</div>
@@ -193,19 +194,22 @@
 										<div class="panel-heading">
 											<h4 class="panel-title">
 												<a data-toggle="collapse" href="#collapse6">Community</a>
+												<i>+</i>
 											</h4>
 										</div>
 										<div id="collapse6" class="panel-collapse collapse">
 									      <div class="panel-body">
-											<a href="">Notice</a><br/>
-											<a href="">Student’s experience</a><br/>
-											<a href="">Talk’s meals</a><br/>
-											<a href="">Inside the Philippines</a><br/>
-											<a href="">Best Student &amp; Teacher</a>
+											<a href="http://talk-academy.kr:81/notice/">News</a>
+											<a href="http://talk-academy.kr:81/experiences/">Experiences</a>
+											<a href="http://talk-academy.kr:81/meals/">Meals</a>
+											<a href="http://talk-academy.kr:81/inside-philippine/">Inside Philippines</a>
+											<a href="http://talk-academy.kr:81/best-students-and-teachers/">Best Students and Teachers</a>
+											<a href="http://talk-academy.kr:81/travels/">Travels</a>
 									      </div>
 									    </div>
 									</div>
 								</div>
+							</div>
 							</div>
 						</div>
 					</div>
@@ -213,44 +217,20 @@
 					<div class="container">
 						<div class="row" style="margin-top: 30px; margin-bottom: 30px;">
 							<div class="footer-icons col-xs-6 col-sm-3 text-center">
-								<img src="<?php echo THEME_URI ?>/img/bureau-immigration.jpg" style="width: 90px; height: 90px;">
-								<p>SSP<br>(Special Study Permit)</p>
+								<img src="<?php echo THEME_URI ?>/img/bureau-immigration.jpg" style="width: 90px; height: 90px;margin-bottom:5px;">
+								<p>필리핀 이민국 허가</p>
 							</div>
 							<div class="footer-icons col-xs-6 col-sm-3 text-center">
-								<img src="<?php echo THEME_URI ?>/img/tesda.jpg" style="height: 90px;">
-								<p>TESDA</p>
+								<img src="<?php echo THEME_URI ?>/img/tesda.jpg" style="width: 90px; height: 90px;margin-bottom:5px;">
+								<p>필리핀교육부 허가</p>
 							</div>
 							<div class="footer-icons col-xs-6 col-sm-3 text-center">
-								<img src="<?php echo THEME_URI ?>/img/pcc.jpg" style="width: 90px; height: 90px;">
-								<p>Accreditation<br>certificate of TVET </p>
+								<img src="<?php echo THEME_URI ?>/img/pcc.jpg" style="width: 70px; height: 90px;margin-bottom:5px;">
+								<p>필리핀법인인증</p>
 							</div>
 							<div class="footer-icons col-xs-6 col-sm-3 text-center">
-								<img src="<?php echo THEME_URI ?>/img/besa.jpg" style="width: 90px; height: 90px;">
-								<p>Baguio English<br>Schools Association</p>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-6">
-								<p>
-									Yangco Center<br>
-									Tel : +63-74-442-6012<br>
-									주소 : #37 yangco Rd., Upper General Luna Rd., Baguio City, 2600 Philippines<br>
-									President Kenneth : +63-917-568-9161
-								</p>
-							</div>
-							<div class="col-md-6">
-								<p>
-									EnE Center<br>
-									Tel : +63-74-442-6012<br>
-									주소 : Lot A, Dacanay Building, Marcos Highway, Baguio City, 2600 Philippines<br>
-									President Louis : +63-917-688-8656
-								</p>
-							</div>
-						</div>
-						<div class="row">
-							<div class="col-md-12 text-center">
-								<p><br/><br/>
-								<a href="mailto:baguiotalk@gmail.com">baguiotalk@gmail.com</a> &copy; <i>Canitalk Academy Inc. All rights reserved.</i></p>
+								<img src="<?php echo THEME_URI ?>/img/besa.jpg" style="width: 90px; height: 90px;margin-bottom:5px;">
+								<p>바기오학원연합회</p>
 							</div>
 						</div>
 					</div> 
@@ -262,6 +242,9 @@
 	<script type="text/javascript" src="<?php echo THEME_URI ?>/js/bootstrap.min.js"></script>
 	<script type="text/javascript">
 		$(document).ready(function(){
+			if($(window).width() <= 764) {
+				$('input[name="s"]').css({"width": $(this).width() - 250});
+			}
 			$('.dropdown-submenu').on("mousemove", function(e){
 				var ul = $(this).find('ul');
 
@@ -304,7 +287,9 @@
 			{
 				$('#floating-menu').toggleClass("hidden", true);
 			}
-		})
-
+		});
+		$(window).on('resize', function() {
+			$('input[name="s"]').css({"width": $(this).width() - 250});
+		});
 	</script>
 </html>
