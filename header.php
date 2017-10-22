@@ -26,7 +26,7 @@
                 <a id="logo" class="navbar-brand" href="<?php echo HOME_PAGE; ?>"><img src="<?php echo THEME_URI; ?>/img/talk-logo.png" style="width:48px !important; height:48px !important;position:absolute; top: 1px;left:1px"></a>
                 <ul class="nav navbar-nav">
                   <li class="dropdown-submenu">
-                    <a href="http://128.199.136.69:81/about-us/">학교소개</a>
+                    <a href="http://128.199.136.69:81/about-us/"></a>
                     <ul class="dropdown-menu">
                       <li><a href="http://128.199.136.69:81/about-us/">연혁</a></li>
                       <li><a href="http://128.199.136.69:81/greetings/">인사말</a></li>
