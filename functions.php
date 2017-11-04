@@ -6,7 +6,8 @@ require_once('manage-schedule.php');
 require_once('manage-weblinks.php');
 
 add_theme_support( 'html5', array( 'comment-list', 'comment-form', 'search-form', 'gallery', 'caption' ) );
-
+wp_localize_script( 'function', 'my_ajax_script', array( 'ajaxurl' => admin_url(  'admin-ajax.php' ) ) );
+add_action( 'admin_init', 'add_ajax_actions' );
 
 function talk_content_filter($content)
 {
@@ -640,10 +641,10 @@ function show_consultation_online_form_func() {
 					<label class="control-label col-xs-4">Gender</label>
 					<div class="col-xs-8">
 						<label class="radio-inline">
-				      		<input type="radio" name="gender" value="M">남
+				      		<input type="radio" name="gender" value="M">Male
 					    </label>
 						<label class="radio-inline">
-				      		<input type="radio" name="gender" value="F">여
+				      		<input type="radio" name="gender" value="F">Female
 					    </label>
 					</div>
 				</div>
@@ -682,16 +683,16 @@ function show_consultation_online_form_func() {
 					<label class="control-label col-xs-4">Dormitory type</label>
 					<div class="col-xs-9">
 					<label class="radio-inline">
-						<input type="radio" name="dormitorytype" value="1인실">1인실
+						<input type="radio" name="dormitorytype" value="Single room">Single room
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="dormitorytype" value="2인실">2인실
+						<input type="radio" name="dormitorytype" value="Double room">Double room
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="dormitorytype" value="3인실">3인실
+						<input type="radio" name="dormitorytype" value="Triple room">Triple room
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="dormitorytype" value="4인실">4인실
+						<input type="radio" name="dormitorytype" value="Quadruple room">Quadruple room
 					</label>
 					<label class="radio-inline">
 						<input type="radio" name="dormitorytype" value="Others">Others :
@@ -709,22 +710,22 @@ function show_consultation_online_form_func() {
 					<label class="control-label col-xs-2">Purpose of study abroad</label>
 					<div class="col-xs-10">
 					<label class="radio-inline">
-						<input type="radio" name="purpose" value="영어회화">영어회화
+						<input type="radio" name="purpose" value="English conversion">English conversion
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="purpose" value="시험준비">시험준비
+						<input type="radio" name="purpose" value="Exam preparation">Exam preparation
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="purpose" value="취업">취업
+						<input type="radio" name="purpose" value="Employment">Employment
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="purpose" value="연계연수">연계연수/워킹홀리데이
+						<input type="radio" name="purpose" value="Linked Training / Working Holiday">Linked Training / Working Holiday
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="purpose" value="해외취업">해외취업
+						<input type="radio" name="purpose" value="Overseas employment">Overseas employment
 					</label>
 					<label class="radio-inline">
-						<input type="radio" name="purpose" value="이민">이민
+						<input type="radio" name="purpose" value="Immigrant">Immigrant
 					</label>
 					<label class="radio-inline">
 						<input type="radio" name="purpose" value="Others">Others :
@@ -763,10 +764,10 @@ function show_consultation_online_form_func() {
 					<label class="control-label col-xs-4">Language learning experience</label>
 					<div class="col-xs-8">
 						<label class="radio-inline">
-							<input type="radio" name="learningexperience" >있음
+							<input type="radio" name="learningexperience" >has experience
 						</label>
 						<label class="radio-inline">
-							<input type="radio" name="learningexperience" >없음
+							<input type="radio" name="learningexperience" >none
 						</label>
 					</div>
 				</div>
@@ -793,7 +794,7 @@ function show_consultation_online_form_func() {
 		<div class="row">
 			<div class="col-xs-12">
 				<div class="form-group">
-					<button id="send-consultation" class="btn btn-danger">유학상담 신청하기</button>
+					<button id="send-consultation" class="btn btn-danger">Apply for study abroad</button>
 				</div>
 			</div>
 		</div>
@@ -821,7 +822,7 @@ function post_online_registration() {
 	Country: $country<br>
 	Phone: $phone<br>
 	Gender: $gender<br>
-	Age: $age<br>
+	Date of birth: $dateofbirth<br>
 	Program: $program<br>
 	Dormitory: $dormitory<br>
 	Dormitory type: $dormitorytype<br>
@@ -895,17 +896,17 @@ function show_online_registration_form_func() {
 					<label class="control-label col-xs-4">Gender</label>
 					<div class="col-xs-8">
 						<label class="radio-inline">
-				      		<input type="radio" name="gender" value="M">남
+				      		<input type="radio" name="gender" value="M">Male
 					    </label>
 						<label class="radio-inline">
-				      		<input type="radio" name="gender" value="F">여
+				      		<input type="radio" name="gender" value="F">Female
 					    </label>
 					</div>
 				</div>
 			</div>
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="birthday">생년월일 <span style="color:rgb(255,0,0)">*</span></label>
+					<label class="control-label col-xs-4" for="birthday">Date of birth <span style="color:rgb(255,0,0)">*</span></label>
 					<div class="col-xs-8">
 						<input class="form-control" id="birthday" name="birthday"></input>
 					</div>
@@ -1013,7 +1014,7 @@ function show_online_registration_form_func() {
 		<div class="row">
 			<div class="col-xs-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="emergencycontact">비상연락처</label>
+					<label class="control-label col-xs-4" for="emergencycontact">Emergency contact</label>
 					<div class="col-xs-8">
 						<input class="form-control" id="emergencycontact" name="emergencycontact"></input>
 					</div>
@@ -1031,7 +1032,7 @@ function show_online_registration_form_func() {
 		<div class="row">
 			<div class="col-xs-12 col-md-6">
 				<div class="form-group">
-					<label class="control-label col-xs-4" for="relationship">학생과의 관계</label>
+					<label class="control-label col-xs-4" for="relationship">Relationship with student</label>
 					<div class="col-xs-8">
 						<input class="form-control" id="relationship" name="relationship"></input>
 					</div>
@@ -1041,7 +1042,7 @@ function show_online_registration_form_func() {
 		<div class="row">
 			<div class="col-xs-12">
 				<div class="form-group">
-					<label class="control-label col-xs-2" for="memo">메모</label>
+					<label class="control-label col-xs-2" for="memo">Memo</label>
 					<div class="col-xs-8">
 						<textarea class="form-control" id="memo" name="memo"></textarea>
 					</div>
@@ -1051,7 +1052,7 @@ function show_online_registration_form_func() {
 		<div class="row">
 			<div class="col-xs-12">
 				<div class="form-group">
-					<button id="send-consultation" class="btn btn-danger">온라인 신청서 보내기</button>
+					<button id="send-application" class="btn btn-danger">Submit online application</button>
 				</div>
 			</div>
 		</div>
