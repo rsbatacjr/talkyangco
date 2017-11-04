@@ -2,7 +2,7 @@ $(document).ready(function(e){
 	var dormitorytype = "",
 		purpose = "";
 
-
+console.log('loaded');
 	$('input[name=dormitorytype]').change(function(e) {
 		if($(this).val() == '기타') {
 			$('#dormitorytypeother').toggleClass('hidden', false);
@@ -59,7 +59,7 @@ $(document).ready(function(e){
 	$('#send-application').on("click", function(e){
 		dormitorytype = $('input[name=dormitorytype]:checked').val();
 		dormitorytype = (dormitorytype == "기타" ? $('#dormitorytypeother').val(): dormitorytype);
-
+console.log('click send application');
 		$.ajax({
 			url: adminajax,
 			type: "POST",
