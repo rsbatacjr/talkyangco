@@ -33,69 +33,69 @@
                     <a href="http://talk-academy.kr:81/about-us/">About TALK</a>
                     <ul class="dropdown-menu">
                       <li><a href="http://talk-academy.kr:81/about-us/">About TALK</a></li>
-                      <li><a href="http://talk-academy.kr:81/greetings/">인사말</a></li>
-                      <li><a href="http://talk-academy.kr:81/strengths/">특징</a></li>
-                      <li><a href="http://talk-academy.kr:81/location/">오시는 길</a></li>
+                      <li><a href="http://talk-academy.kr:81/greetings/">Greetings</a></li>
+                      <li><a href="http://talk-academy.kr:81/strengths/">Strengths</a></li>
+                      <li><a href="http://talk-academy.kr:81/location/">Location</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
-                    <a href="/procedure/">유학까지의 흐름</a>
+                    <a href="/procedure/">Process</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.kr:81/procedure/">유학까지의 흐름</a></li>
-                      <li><a href="http://talk-academy.kr:81/about-preparation/">유학준비에 대해</a></li>
+                      <li><a href="http://talk-academy.kr:81/procedure/">Process</a></li>
+                      <li><a href="http://talk-academy.kr:81/about-preparation/">About Preparation</a></li>
                       <li><a href="http://talk-academy.kr:81/faqs/">FAQ</a></li>
-                      <li><a href="http://talk-academy.kr:81/medical-and-insurance/">의료 체제와 보험</a></li>
-                      <li><a href="http://talk-academy.kr:81/way-to-baguio/">바기오 가는 방법</a></li>
-                      <li><a href="http://talk-academy.kr:81/campaigns/">캠페인</a></li>
+                      <li><a href="http://talk-academy.kr:81/medical-and-insurance/">Medical and Insurance</a></li>
+                      <li><a href="http://talk-academy.kr:81/way-to-baguio/">Way to Baguio</a></li>
+                      <li><a href="http://talk-academy.kr:81/campaigns/">Campaign</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
-                    <a href="/tuition-fee/">연수비용</a>
+                    <a href="/tuition-fee/">Tuition Fee</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.kr:81/tuition-fee/">연수비용안내</a></li>
-                      <li><a href="http://talk-academy.kr:81/dormitory-type/">기숙사안내</a></li>
-                      <li><a href="http://talk-academy.kr:81/miscellaneous-fee/">현지비용</a></li>
-                      <li><a href="http://talk-academy.kr:81/ielts-official-test-dates/">IELTS  시험 일정</a></li>
-                      <li><a href="http://talk-academy.kr:81/toeic-official-test-dates/">TOEIC 시험 일정</a></li>
-                      <li><a href="http://talk-academy.kr:81/philippine-holiday/">필리핀 휴일</a></li>
-                      <li><a href="http://talk-academy.kr:81/official-pickup-dates/">정규픽업일</a></li>
-                      <li><a href="http://talk-academy.kr:81/refund-policy/">환불규정</a></li>
-                      <li><a href="http://talk-academy.kr:81/online-registration/">온라인 신청서</a></li>
+                      <li><a href="http://talk-academy.kr:81/tuition-fee/">Tuition Fee</a></li>
+                      <li><a href="http://talk-academy.kr:81/dormitory-type/">Dormitory</a></li>
+                      <li><a href="http://talk-academy.kr:81/miscellaneous-fee/">Miscellaneous Fee</a></li>
+                      <li><a href="http://talk-academy.kr:81/ielts-official-test-dates/">IELTS Test Dates</a></li>
+                      <li><a href="http://talk-academy.kr:81/toeic-official-test-dates/">TOEIC Test Dates</a></li>
+                      <li><a href="http://talk-academy.kr:81/philippine-holiday/">Phlippines Holiday</a></li>
+                      <li><a href="http://talk-academy.kr:81/official-pickup-dates/">Official Pickup Dates</a></li>
+                      <li><a href="http://talk-academy.kr:81/refund-policy/">Refund Policy</a></li>
+                      <li><a href="http://talk-academy.kr:81/online-registration/">Online Registration</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
-                    <a href="/more-about-talk">토크의 학습방법</a>
+                    <a href="/more-about-talk">More About TALK</a>
                     <ul class="dropdown-menu">
                       <li><a href="http://talk-academy.kr:81/yangco-esl/">ESL 421, 521, 611</a></li>
                       <li><a href="http://talk-academy.kr:81/ielts/">IELTS</a></li>
                       <li><a href="http://talk-academy.kr:81/toiec/">TOEIC</a></li>
                       <li><a href="http://talk-academy.kr:81/power-speaking/">Power Speaking</a></li>
-                      <li><a href="http://talk-academy.kr:81/job-ready/">Working Holiday</a></li>
-                      <li><a href="http://talk-academy.kr:81/family-esl/">Family ESL</a></li>
-                      <li><a href="http://talk-academy.kr:81/online-consultation/">연수상담</a></li>
+                      <li><a href="http://talk-academy.kr:81/job-ready-en-en/">Working Holiday</a></li>
+                      <li><a href="http://talk-academy.kr:81/family-esl-en/">Family ESL</a></li>
+                      <li><a href="http://talk-academy.kr:81/online-consultation/">Online Registration</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
-                    <a href="/philippine-language-study-plan">필리핀어학연수계획</a>
+                    <a href="/philippine-language-study-plan">Plans</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.kr:81/toeic-test/">TOEIC 시험</a></li>
-                      <li><a href="http://talk-academy.kr:81/ielts-test/">IELTS 시험</a></li>
-                      <li><a href="http://talk-academy.kr:81/intensive-speaking/">스피킹 집중</a></li>
-                      <li><a href="http://talk-academy.kr:81/short-term-study/">1~2주 단기 어학연수</a></li>
-                      <li><a href="http://talk-academy.kr:81/long-term-study/">장기유학</a></li>
-                      <li><a href="http://talk-academy.kr:81/best-price/">저렴한 어학연수</a></li>
-                      <li><a href="http://talk-academy.kr:81/philippines-and-other-countries/">호주, 캐나다 연계연수</a></li>
+                      <li><a href="http://talk-academy.kr:81/toeic-test-en/">TOEIC Test</a></li>
+                      <li><a href="http://talk-academy.kr:81/ielts-test/">IELTS Test</a></li>
+                      <li><a href="http://talk-academy.kr:81/intensive-speaking-en/">Intensive Speaking</a></li>
+                      <li><a href="http://talk-academy.kr:81/short-term-study/">Short Term Study</a></li>
+                      <li><a href="http://talk-academy.kr:81/long-term-study/">Long Term Study</a></li>
+                      <li><a href="http://talk-academy.kr:81/best-price/">Best Price</a></li>
+                      <li><a href="http://talk-academy.kr:81/philippines-and-other-countries/">Philippines and Other Countries</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
-                    <a href="/notice/">커뮤니티</a>
+                    <a href="/notice/">Community</a>
                     <ul class="dropdown-menu">
-                      <li><a href="http://talk-academy.kr:81/notice/">공지사항</a></li>
-                      <li><a href="http://talk-academy.kr:81/experiences/">연수후기</a></li>
-                      <li><a href="http://talk-academy.kr:81/meals/">토크의 식단</a></li>
-                      <li><a href="http://talk-academy.kr:81/inside-philippine/">미리보는 필리핀</a></li>
-                      <li><a href="http://talk-academy.kr:81/best-students-and-teachers/">명예의 전당</a></li>
-                      <li><a href="http://talk-academy.kr:81/travels/">여행</a></li>
+                      <li><a href="http://talk-academy.kr:81/notice/">News</a></li>
+                      <li><a href="http://talk-academy.kr:81/experiences/">Experiences</a></li>
+                      <li><a href="http://talk-academy.kr:81/meals/">Meals</a></li>
+                      <li><a href="http://talk-academy.kr:81/inside-philippine/">Inside Philippines</a></li>
+                      <li><a href="http://talk-academy.kr:81/best-students-and-teachers/">Best Students and Teachers</a></li>
+                      <li><a href="http://talk-academy.kr:81/travels/">Travels</a></li>
                     </ul>
                   </li>
                 </ul>
@@ -207,17 +207,17 @@
                               <li><a href="http://talk-academy.kr:81/ielts/">IELTS</a></li>
                               <li><a href="http://talk-academy.kr:81/toiec/">TOEIC</a></li>
                               <li><a href="http://talk-academy.kr:81/power-speaking/">Power Speaking</a></li>
-                              <li><a href="http://talk-academy.kr:81/job-ready/">Working Holiday</a></li>
-                              <li><a href="http://talk-academy.kr:81/family-esl/">Family ESL</a></li>
+                              <li><a href="http://talk-academy.kr:81/job-ready-en/">Working Holiday</a></li>
+                              <li><a href="http://talk-academy.kr:81/family-esl-en/">Family ESL</a></li>
                               <li><a href="http://talk-academy.kr:81/online-consultation/">Online Consultation</a></li>
                             </ul>
                           </li>
                           <li class="mobile-dropdown">
                             <span data-toggle="collapse" data-target="#fifth-mobile-menu">Study Plans</span>
                             <ul id="fifth-mobile-menu" class="collapse">
-                              <li><a href="http://talk-academy.kr:81/toeic-test/">TOEIC Exam</a></li>
+                              <li><a href="http://talk-academy.kr:81/toeic-test-en/">TOEIC Exam</a></li>
                               <li><a href="http://talk-academy.kr:81/ielts-test/">IELTS Exam</a></li>
-                              <li><a href="http://talk-academy.kr:81/intensive-speaking/">Intensive Speaking</a></li>
+                              <li><a href="http://talk-academy.kr:81/intensive-speaking-en/">Intensive Speaking</a></li>
                               <li><a href="http://talk-academy.kr:81/short-term-study/">Short Term Study</a></li>
                               <li><a href="http://talk-academy.kr:81/long-term-study/">Long Term Study</a></li>
                               <li><a href="http://talk-academy.kr:81/best-price/">Best Price</a></li>
@@ -283,17 +283,17 @@
                               <li><a href="http://talk-academy.kr:81/ielts/">IELTS</a></li>
                               <li><a href="http://talk-academy.kr:81/toiec/">TOEIC</a></li>
                               <li><a href="http://talk-academy.kr:81/power-speaking/">Power Speaking</a></li>
-                              <li><a href="http://talk-academy.kr:81/job-ready/">Working Holiday</a></li>
-                              <li><a href="http://talk-academy.kr:81/family-esl/">Family ESL</a></li>
+                              <li><a href="http://talk-academy.kr:81/job-ready-en/">Working Holiday</a></li>
+                              <li><a href="http://talk-academy.kr:81/family-esl-en/">Family ESL</a></li>
                               <li><a href="http://talk-academy.kr:81/online-consultation/">Online Consultation</a></li>
                             </ul>
                           </li>
                           <li class="dropdown-submenu">
                             <a href="/philippine-language-study-plan">Plans</a>
                             <ul class="dropdown-menu">
-                              <li><a href="http://talk-academy.kr:81/toeic-test/">TOEIC Test</a></li>
+                              <li><a href="http://talk-academy.kr:81/toeic-test-en/">TOEIC Test</a></li>
                               <li><a href="http://talk-academy.kr:81/ielts-test/">IELTS Test</a></li>
-                              <li><a href="http://talk-academy.kr:81/intensive-speaking/">Intensive Speaking</a></li>
+                              <li><a href="http://talk-academy.kr:81/intensive-speaking-en/">Intensive Speaking</a></li>
                               <li><a href="http://talk-academy.kr:81/short-term-study/">Short Term Study</a></li>
                               <li><a href="http://talk-academy.kr:81/long-term-study/">Long Term Study</a></li>
                               <li><a href="http://talk-academy.kr:81/best-price/">Best Price</a></li>
@@ -334,3 +334,4 @@
                   </nav>
               </div>
       </header>
+
