@@ -1,6 +1,6 @@
 /*
 Theme Name: Talkyangco English rey
-Theme URI: 
+Theme URI:
 Description: Talkyangco WordPress theme
 Version: 2
 Author: Reynaldo S. Batac Jr.
@@ -47,15 +47,15 @@ z-index: 99;
 .search { position: relative; }
 .search input { text-indent: 30px;
 float: right; border: 1px solid #c0c0c0;border-radius: 5px;width:250px;margin-top:5px;padding: 5px;}
-.search .fa-search { 
+.search .fa-search {
   position: absolute;
   top: 12px;
   right: 17px;
   font-size: 15px;
 }
 * {
-	font-family: "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Meiryo, メイリオ, Osaka, "MS PGothic", helvetica, sans-serif;
-    font-size: 100%;
+	font-family: 'Tangerine', serif;
+	font-size: 100%;
 }
 .panel {
 	border: none;
