@@ -16,7 +16,7 @@ get_header();
 					</div>
 					<div class="row">
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder">
+							<div class="course-builder" onclick="javascript:window.location = 'http://talk-academy.com/yangco-esl';">
 								<strong>Speaking course</strong>
 								<p>ESL 521</p>
 							</div>
