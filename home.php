@@ -22,7 +22,7 @@ get_header();
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder">
+							<div class="course-builder" onclick="javascript:window.location = 'http://talk-academy.com/toeic/':">
 								<strong>Job application</strong>
 								<p>Intensive TOEIC</p>
 							</div>
