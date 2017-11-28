@@ -29,12 +29,12 @@ get_header();
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
 							<div class="course-builder">
-								<strong>University &amp; emigration</strong>
+								<strong>University &amp; Immigration</strong>
 								<p>Intensive IELTS</p>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder">
+							<div class="course-builder" onclick ="javascript:window.location = 'http://talk-academy.com/family-esl-en/'">
 								<strong>Family Course</strong>
 								<p>Family ESL</p>
 							</div>
