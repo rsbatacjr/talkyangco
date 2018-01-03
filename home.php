@@ -22,19 +22,19 @@ get_header();
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder" onclick="javascript:window.location = 'http://talk-academy.com/toeic/':">
+							<div class="course-builder" onclick="javascript:window.location = 'http://talk-academy.com/toeic/';">
 								<strong>Job application</strong>
 								<p>Intensive TOEIC</p>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder">
+							<div class="course-builder" onclick="javascript:window.location = 'http://talk-academy.com/ielts/';">
 								<strong>University &amp; Immigration</strong>
 								<p>Intensive IELTS</p>
 							</div>
 						</div>
 						<div class="col-xs-12 col-sm-6 col-md-3">
-							<div class="course-builder" onclick ="javascript:window.location = 'http://talk-academy.com/family-esl-en/'">
+							<div class="course-builder" onclick ="javascript:window.location = 'http://talk-academy.com/family-esl-en/';">
 								<strong>Family Course</strong>
 								<p>Family ESL</p>
 							</div>
@@ -46,7 +46,7 @@ get_header();
 			</div>
 		</div>
 		<div id="about-container" class="col-xs-12 col-sm-6 col-md-4">
-			<div id="about">
+			<div id="about" onclick="javascript:window.location = 'http://3d.jesolution.co.kr/canitalk/talk_yangco/';">
 				<div class="mask">
 					<h2>About TALK</h2>
 					<div id="about-normal">
@@ -67,7 +67,7 @@ If you know the important information in advance,  it will be helpful for you  t
 			</div>
 		</div>
 		<div id="experience-container" class="col-xs-12 col-sm-6 col-md-4">
-			<div id="experience">
+			<div id="experience" onclick="javascript:window.location = 'http://talk-academy.com/experiences/';">
 				<div class="mask">
 					<h2>Student experience</h2>
 					<div id="experience-normal">
@@ -116,12 +116,14 @@ If you know the important information in advance,  it will be helpful for you  t
 								<div class="plan-list-parent col-xs-12 col-md-4">
 									<div class="plan-list">
 										<div class="plan-list-normal">
-											<p><br>IELTS<br>5.0, 5.5, 6.0</p>
+											<p><br>IELTS<br>5.5, 6.0, 6.5</p>
 											<span class="plus-sign">+</span>
 										</div>	
 										<div class="plan-list-hover">
-											<p>Let’s prepare entering the university and migrating to other country with qualified TALK’s IELTS program together. </p>
-											<span class="next-button-black"></span>
+											<a style="color:#666" href='http://talk-academy.com/ielts-test/'>
+												<p>Let’s prepare entering the university and migrating to other country with qualified TALK’s IELTS program together. </p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 									</div>
 								</div>
