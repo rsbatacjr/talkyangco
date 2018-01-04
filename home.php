@@ -134,8 +134,10 @@ If you know the important information in advance,  it will be helpful for you  t
 											<span class="plus-sign">+</span>
 										</div>	
 										<div class="plan-list-hover">
-											<p>Even though you are good at grammar and vocabulary, but your speaking is not good, we recommend that you take our power speaking course.</p>
-											<span class="next-button-black"></span>
+											<a style="color:666" href='http://talk-academy.com/intensive-speaking-en/'>
+												<p>Even though you are good at grammar and vocabulary, but your speaking is not good, we recommend that you take our power speaking course.</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -146,8 +148,10 @@ If you know the important information in advance,  it will be helpful for you  t
 											<span class="plus-sign">+</span>
 										</div>	
 										<div class="plan-list-hover">
-											<p>If you don’t have enough time to study English or don’t know how to study English, we will guide you to study English step by step..</p>
-											<span class="next-button-black"></span>
+											<a style="color:#666" href='http://talk-academy.com/short-term-study/'>
+												<p>If you don’t have enough time to study English or don’t know how to study English, we will guide you to study English step by step..</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -162,8 +166,10 @@ If you know the important information in advance,  it will be helpful for you  t
 											<span class="plus-sign">+</span>
 										</div>
 										<div class="plan-list-hover">
-											<p>Let’s get your TOEIC Score and TOEIC Speaking efficiency with TALK Academy. The first school to start and operate TOEIC score guarantee program in the Philippines</p>
-											<span class="next-button-black"></span>
+											<a href="http://talk-academy.com/toeic-test-en/">
+												<p>Let’s get your TOEIC Score and TOEIC Speaking efficiency with TALK Academy. The first school to start and operate TOEIC score guarantee program in the Philippines</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -174,8 +180,10 @@ If you know the important information in advance,  it will be helpful for you  t
 											<span class="plus-sign">+</span>
 										</div>
 										<div class="plan-list-hover">
-											<p>If you feel, you need to study English more  before you start to study in university, why don’t you study English with us?</p>
-											<span class="next-button-black"></span>
+											<a href="http://talk-academy.com/philippines-and-other-countries/">
+												<p>If you feel, you need to study English more  before you start to study in university, why don’t you study English with us?</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 										
 									</div>
@@ -187,8 +195,10 @@ If you know the important information in advance,  it will be helpful for you  t
 											<span class="plus-sign">+</span>
 										</div>
 										<div class="plan-list-hover">
-											<p>Do you feel tuition fee is expensive? We have budget-friendly English program for the learners. Just contact us.</p>
-											<span class="next-button-black"></span>
+											<a href="http://talk-academy.com/best-price/">
+												<p>Do you feel tuition fee is expensive? We have budget-friendly English program for the learners. Just contact us.</p>
+												<span class="next-button-black"></span>
+											</a>
 										</div>
 									</div>
 								</div>
@@ -235,12 +245,12 @@ If you know the important information in advance,  it will be helpful for you  t
 						<div class="col-xs-12">
 							<div class="calendar-list-parent col-xs-6" style="border-right:1px solid #666; border-bottom: 1px solid #666">
 								<div class="calendar-list">
-									<p style="padding-top: 15px;">Holiday<br>in Philippines</p>
+									<p style="padding-top: 15px;"><a style="color:#666;" href='http://talk-academy.com/philippine-holiday/'>Holiday<br>in Philippines</a></p>
 								</div>
 							</div>
 							<div class="calendar-list-parent col-xs-6" style=" border-bottom: 1px solid #666">
 								<div class="calendar-list">
-									<p>Official<br>pick-up<br>Service dates</p>
+									<p><a style="color:#666;" href='http://talk-academy.com/official-pickup-dates/'>Official<br>pick-up<br>Service dates</a></p>
 								</div>
 							</div>
 						</div>
@@ -249,12 +259,12 @@ If you know the important information in advance,  it will be helpful for you  t
 						<div class="col-xs-12">
 							<div class="calendar-list-parent col-xs-6" style="border-right:1px solid #666">
 								<div class="calendar-list">
-									<p>IELTS<br>Official test<br>dates</p>
+									<p><br><a style="color:#666;" href='http://talk-academy.com/ielts-official-test-dates/'>IELTS<br>Official test<br>dates</a></p>
 								</div>
 							</div>
 							<div class="calendar-list-parent col-xs-6">
 								<div class="calendar-list">
-									<p>TOEIC<br>Official test<br>dates</p>
+									<p><br><a style="color:#666;" href='http://talk-academy.com/toeic-official-test-dates/'>TOEIC<br>Official test<br>dates</a></p>
 								</div>
 							</div>
 						</div>
