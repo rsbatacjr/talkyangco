@@ -48,7 +48,7 @@ get_header();
 		<div id="about-container" class="col-xs-12 col-sm-6 col-md-4">
 			<div id="about" onclick="javascript:window.location = 'http://3d.jesolution.co.kr/canitalk/talk_yangco/';">
 				<div class="mask">
-					<h2>About TALK</h2>
+					<h2 style='background-color:transparent'>About TALK</h2>
 					<div id="about-normal">
 						<p>Preview TALK’S Classroom and Dormitory</p>
 						<span class="plus-sign">+</span>
@@ -69,7 +69,7 @@ If you know the important information in advance,  it will be helpful for you  t
 		<div id="experience-container" class="col-xs-12 col-sm-6 col-md-4">
 			<div id="experience" onclick="javascript:window.location = 'http://talk-academy.com/experiences/';">
 				<div class="mask">
-					<h2>Student experience</h2>
+					<h2 style='background-color:transparent'>Student experience</h2>
 					<div id="experience-normal">
 						<p>Share your life in TALK Academy</p>
 						<span class="plus-sign">+</span>
