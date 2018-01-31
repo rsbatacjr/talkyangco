@@ -1,6 +1,6 @@
 <?php
 require_once('wp_bootstrap_navwalker.php');
-define('HOME_PAGE', "http://talk-academy.kr:81");
+define('HOME_PAGE', "http://talk-academy.com");
 define('THEME_URI', get_template_directory_uri());
 require_once('manage-schedule.php');
 require_once('manage-weblinks.php');
