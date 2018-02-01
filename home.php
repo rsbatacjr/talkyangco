@@ -87,6 +87,7 @@ If you know the important information in advance,  it will be helpful for you  t
 	<div class="row">
 		<div id="notice-container" class="col-xs-12 col-md-4">
 			<div id="notice">
+				<a href="http://talk-academy.com/notice/" style="text-decoration: none; color: #fff;">
 				<strong>Notice</strong>
 				<p>
 					Before you study in Talk, you can check TALK’s news. It will be helpful for you to decide to study English in TALK Academy
@@ -96,12 +97,11 @@ If you know the important information in advance,  it will be helpful for you  t
 						<div class="col-xs-12">
 							<span id="notice-plus">+</span>
 							<span class="next-button"></span>
+					</a>
 						</div>
 					</div>
 					<ul id="notice-list">
-						<li><a href="#">5월 입학가능일 안내</a></li>
-						<li><a href="#">노용이 화난 날(Warning)</a></li>
-						<li><a href="#">노용이 소리 질른 날..ㅋㅋ</a></li>
+						<?php do_shortcode('[show_topThree post_type="news"]'); ?>
 					</ul>
 				</div>
 			</div>
@@ -214,12 +214,11 @@ If you know the important information in advance,  it will be helpful for you  t
 		<div id="best-place-container" class="col-xs-12 col-md-4">
 			<div id="best-place">
 				<div class="mask">
+					<a href="http://talk-academy.com/travel/" style="text-decoration: none;color: #fff;">
 					<strong>Best place for travelling</strong>
-					<div id="best-place-list-container">
+					<div id="best-place-list-container"></a>
 						<ul id="best-place-list">
-							<li><a href="#">Baguio City</a></li>
-							<li><a href="#">Day trip tour course</a></li>
-							<li><a href="#">Good for 1 or 2 nights tour course</a></li>
+							<?php do_shortcode('[show_topThree post_type="travel"]'); ?>
 						</ul>
 					</div>
 				</div>
@@ -227,12 +226,11 @@ If you know the important information in advance,  it will be helpful for you  t
 		</div>
 		<div id="campaign-container" class="col-xs-12 col-md-4">
 			<div id="campaign">
+				<a href="http://talk-academy.com/campaigns/" style="text-decoration: none;">
 				<strong>Campaign</strong>
-				<div id="campaign-list-container">
+				<div id="campaign-list-container"></a>
 					<ul id="campaign-list">
-						<li><a href="#">Prepare for IELTS test with Native teacher</a></li>
-						<li><a href="#">Get more than 300 TOEIC score in 12weeks</a></li>
-						<li><a href="#">Let’s get official TOEIC test for free in TALK</a></li>
+						<?php do_shortcode('[show_topThree post_type="campaign"]'); ?>
 					</ul>
 				</div>
 			</div>
@@ -250,7 +248,7 @@ If you know the important information in advance,  it will be helpful for you  t
 							</div>
 							<div class="calendar-list-parent col-xs-6" style=" border-bottom: 1px solid #666">
 								<div class="calendar-list">
-									<p><a style="color:#666;" href='http://talk-academy.com/official-pickup-dates/'>Official<br>pick-up<br>Service dates</a></p>
+									<p><a style="color:#666;" href='http://talk-academy.com/official-pick-up-dates/'>Official<br>pick-up<br>Service dates</a></p>
 								</div>
 							</div>
 						</div>
