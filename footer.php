@@ -63,7 +63,7 @@
 										<li><a href="http://talk-academy.com/short-term-study/">Short Term Study</a></li>
 										<li><a href="http://talk-academy.com/long-term-study/">Long Term Study</a></li>
 										<li><a href="http://talk-academy.com/best-price/">Best Price</a></li>
-										<li><a href="http://talk-academy.com/philippines-and-other-countries/">Philippines and Other Countries/a></li>
+										<li><a href="http://talk-academy.com/philippines-and-other-countries/">Philippines and Other Countries</a></li>
 									</ul>
 								</div>
 								<div class="col-md-2">
