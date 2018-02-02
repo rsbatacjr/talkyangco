@@ -72,7 +72,7 @@
                       <li><a href="http://talk-academy.com/ielts/">IELTS</a></li>
                       <li><a href="http://talk-academy.com/toiec/">TOEIC</a></li>
                       <li><a href="http://talk-academy.com/power-speaking/">Power Speaking</a></li>
-                      <li><a href="http://talk-academy.com/job-ready-en-en/">Working Holiday</a></li>
+                      <li><a href="http://talk-academy.com/job-ready-en/">Working Holiday</a></li>
                       <li><a href="http://talk-academy.com/family-esl-en/">Family ESL</a></li>
                       <li><a href="http://talk-academy.com/online-consultation/">Online Registration</a></li>
                     </ul>
