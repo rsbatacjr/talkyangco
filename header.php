@@ -162,16 +162,17 @@
                       <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#example-navbar-collapse-xs">
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                        <span class="icon-bar"></span>
-                      </button>
-                    </div>
-                    <div class="collapse navbar-collapse" id="example-navbar-collapse-xs">
-                      <ul class="nav navbar-nav">
-                        <li class="mobile-dropdown">
-                        <span data-toggle="collapse" data-target="#first-mobile-menu">About TALK</span>
-                          <ul id="first-mobile-menu" class="collapse">
-                            <li><a href="http://talk-academy.com/about-us/">About TALK</a></li>
+		<v class="navbar navbar-default" role="navigation">
+span class="icon-bar"></span>
+		<span class="icon-bar"></span>
+	      </button>
+	    </div>
+	    <div class="collapse navbar-collapse" id="example-navbar-collapse-xs">
+	      <ul class="nav navbar-nav">
+		<li class="mobile-dropdown">
+		<span data-toggle="collapse" data-target="#first-mobile-menu">About TALK</span>
+		  <ul id="first-mobile-menu" class="collapse">
+		    <li><a href="http://talk-academy.com/about-us/">About TALK</a></li>
                             <li><a href="http://talk-academy.com/greetings/">Greetings</a></li>
                             <li><a href="http://talk-academy.com/strengths/">Strengths</a></li>
                             <li><a href="http://talk-academy.com/location/">Location</a></li>
@@ -217,19 +218,19 @@
                           <li class="mobile-dropdown">
                             <span data-toggle="collapse" data-target="#fifth-mobile-menu">Study Plans</span>
                             <ul id="fifth-mobile-menu" class="collapse">
-                              <li><a href="http://talk-academy.com/toeic-test-en/">TOEIC Exam</a></li>
-                              <li><a href="http://talk-academy.com/ielts-test/">IELTS Exam</a></li>
-                              <li><a href="http://talk-academy.com/intensive-speaking-en/">Intensive Speaking</a></li>
-                              <li><a href="http://talk-academy.com/short-term-study/">Short Term Study</a></li>
-                              <li><a href="http://talk-academy.com/long-term-study/">Long Term Study</a></li>
-                              <li><a href="http://talk-academy.com/best-price/">Best Price</a></li>
-                              <li><a href="http://talk-academy.com/philippines-and-other-countries/">Philippines and Other Countries</a></li>
-                            </ul>
-                          </li>
-                        <li class="mobile-dropdown">
-                          <span data-toggle="collapse" data-target="#sixth-mobile-menu">Community</span>
-                          <ul id="sixth-mobile-menu" class="collapse">
-                            <li><a href="http://talk-academy.com/notice/">News</a></li>
+		      <li><a href="http://talk-academy.com/toeic-test-en/">TOEIC Exam</a></li>
+		      <li><a href="http://talk-academy.com/ielts-test/">IELTS Exam</a></li>
+		      <li><a href="http://talk-academy.com/intensive-speaking-en/">Intensive Speaking</a></li>
+		      <li><a href="http://talk-academy.com/short-term-study/">Short Term Study</a></li>
+		      <li><a href="http://talk-academy.com/long-term-study/">Long Term Study</a></li>
+		      <li><a href="http://talk-academy.com/best-price/">Best Price</a></li>
+		      <li><a href="http://talk-academy.com/philippines-and-other-countries/">Philippines and Other Countries</a></li>
+		    </ul>
+		  </li>
+		<li class="mobile-dropdown">
+		  <span data-toggle="collapse" data-target="#sixth-mobile-menu">Community</span>
+		  <ul id="sixth-mobile-menu" class="collapse">
+		    <li><a href="http://talk-academy.com/notice/">News</a></li>
                             <li><a href="http://talk-academy.com/experiences/">Experiences</a></li>
                             <li><a href="http://talk-academy.com/meals/">Meals</a></li>
                             <li><a href="http://talk-academy.com/inside-philippine/">Inside Philippines</a></li>
