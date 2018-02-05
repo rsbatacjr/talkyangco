@@ -45,10 +45,10 @@
                     <ul class="dropdown-menu">
                       <li><a href="http://talk-academy.com/procedure/">Process</a></li>
                       <li><a href="http://talk-academy.com/about-preparation/">About Preparation</a></li>
-                      <li><a href="http://talk-academy.com/faq/">FAQ</a></li>
+                      <li><a href="http://talk-academy.com/faqs/">FAQ</a></li>
                       <li><a href="http://talk-academy.com/medical-and-insurance/">Medical and Insurance</a></li>
                       <li><a href="http://talk-academy.com/way-to-baguio/">Way to Baguio</a></li>
-                      <li><a href="http://talk-academy.com/campaigns/">Campaign</a></li>
+                      <li><a href="http://talk-academy.com/campaign/">Campaign</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
