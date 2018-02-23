@@ -45,10 +45,10 @@
                     <ul class="dropdown-menu">
                       <li><a href="http://talk-academy.com/procedure/">Process</a></li>
                       <li><a href="http://talk-academy.com/about-preparation/">About Preparation</a></li>
-                      <li><a href="http://talk-academy.com/faqs/">FAQ</a></li>
+                      <li><a href="http://talk-academy.com/faq/">FAQ</a></li>
                       <li><a href="http://talk-academy.com/medical-and-insurance/">Medical and Insurance</a></li>
                       <li><a href="http://talk-academy.com/way-to-baguio/">Way to Baguio</a></li>
-                      <li><a href="http://talk-academy.com/campaign/">Campaign</a></li>
+                      <li><a href="http://talk-academy.com/campaigns/">Campaign</a></li>
                     </ul>
                   </li>
                   <li class="dropdown-submenu">
@@ -70,7 +70,7 @@
                     <ul class="dropdown-menu">
                       <li><a href="http://talk-academy.com/yangco-esl/">ESL 421, 521, 611</a></li>
                       <li><a href="http://talk-academy.com/ielts/">IELTS</a></li>
-                      <li><a href="http://talk-academy.com/toiec/">TOEIC</a></li>
+                      <li><a href="http://talk-academy.com/toeic/">TOEIC</a></li>
                       <li><a href="http://talk-academy.com/power-speaking/">Power Speaking</a></li>
                       <li><a href="http://talk-academy.com/job-ready-en/">Working Holiday</a></li>
                       <li><a href="http://talk-academy.com/family-esl-en/">Family ESL</a></li>
@@ -173,6 +173,7 @@ span class="icon-bar"></span>
 		<span data-toggle="collapse" data-target="#first-mobile-menu">About TALK</span>
 		  <ul id="first-mobile-menu" class="collapse">
 		    <li><a href="http://talk-academy.com/about-us/">About TALK</a></li>
+		    <li><a href="http://talk-academy.com/about-us/">About TALK</a></li>
                             <li><a href="http://talk-academy.com/greetings/">Greetings</a></li>
                             <li><a href="http://talk-academy.com/strengths/">Strengths</a></li>
                             <li><a href="http://talk-academy.com/location/">Location</a></li>
@@ -217,7 +218,6 @@ span class="icon-bar"></span>
                           </li>
                           <li class="mobile-dropdown">
                             <span data-toggle="collapse" data-target="#fifth-mobile-menu">Study Plans</span>
-                            <ul id="fifth-mobile-menu" class="collapse">
 		      <li><a href="http://talk-academy.com/toeic-test-en/">TOEIC Exam</a></li>
 		      <li><a href="http://talk-academy.com/ielts-test/">IELTS Exam</a></li>
 		      <li><a href="http://talk-academy.com/intensive-speaking-en/">Intensive Speaking</a></li>
@@ -336,4 +336,3 @@ span class="icon-bar"></span>
                     </div>
                   </nav>
               </div>
-      </header>
