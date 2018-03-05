@@ -163,7 +163,7 @@
                         <span class="sr-only">Toggle navigation</span>
                         <span class="icon-bar"></span>
 		<v class="navbar navbar-default" role="navigation">
-span class="icon-bar"></span>
+			<span class="icon-bar"></span>
 		<span class="icon-bar"></span>
 	      </button>
 	    </div>
