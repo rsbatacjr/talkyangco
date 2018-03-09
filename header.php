@@ -7,7 +7,7 @@
     <title><?php bloginfo('name'); ?> <?php wp_title('&laquo;', true, 'right'); ?></title>
     <meta name="description" content="<?php bloginfo('description'); ?>" />
     <meta name="description" content="TALK Academy is an English school in Baguio that offers extensive and special English programs for non-native speakers. We offer ESL, IELTS, TOEIC and other programs that will help you learn and achieve your dreams!" />
-
+    
 	<!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
